@@ -58,7 +58,7 @@ function CreateOrder() {
             <input
               type="tel"
               name="phone"
-              placeholder="+1 (234) 567-8900"
+              placeholder="+1 (222) 333-4444"
               required
             />
           </div>
